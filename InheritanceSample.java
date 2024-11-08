@@ -8,7 +8,7 @@ public class InheritanceSample {
         System.out.println("Program: " + student.getProgram());
         System.out.println("Year: " + student.getYear());
 
-        Staff staff = new Staff("Beb", "213 Elm St", "UniversitySchool", 499.00);
+        Staff staff = new Staff("wim", "222 Elm St", "UniversitySchool", 499.00);
 
         System.out.println("\nStaff Details:");
         System.out.println("Name: " + staff.getName());

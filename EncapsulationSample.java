@@ -10,8 +10,8 @@ public class EncapsulationSample {
         Book book1 = new Book();
         book1.setBookNumber(10);
         book1.setTitle("Java Programming");
-        book1.setAuthor("John Vincent");
-        book1.setPrice(399.99);
+        book1.setAuthor("Lucas");
+        book1.setPrice(499.99);
 
         System.out.println("\nBook Details:");
         System.out.println("Book Number: " + book1.getBookNumber());
